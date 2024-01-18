@@ -1,4 +1,4 @@
-#Analyzing Flight Data with Python
+# Analyzing Flight Data with Python
 
 1. What do coach ticket prices look like? What are the high and low values? What would be considered average? Does $500 seem like a good price for a coach ticket?
 
